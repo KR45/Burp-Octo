@@ -21,7 +21,7 @@ but first we need to find total number of columns here
 ' order by 2--
 ' ordre by 3--
 ```
-here we have three colummn in which second column , so now time for our payload
+here we have three colummn in which second column contains text , so now time for our payload
 
 payload
 
