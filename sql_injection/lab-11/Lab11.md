@@ -4,5 +4,5 @@ Blind sql arises when application is vulnerable with sql injection but query don
 
 So union attacks doesn't work here
 
-<h2>Can be exploited by using conditional responses</h2>
+## Can be exploited by using conditional responses
 
