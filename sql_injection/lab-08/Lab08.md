@@ -11,7 +11,8 @@ end goal : database type and version
 ```sql
 ' union select @@version 
 ```
-this query resulted in internal server error 
+
+this query resulted in internal server error
 
 lets try to find out the number of columns
 
